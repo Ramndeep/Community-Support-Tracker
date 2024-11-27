@@ -1,0 +1,19 @@
+# Project Guidelines: Community Support Tracker
+
+## Purpose
+This project is a collaborative effort to build a web application that tracks community initiatives.
+
+## Team Responsibilities
+- **Student 1**: Donation Tracker
+- **Student 2**: Volunteer Hours Tracker
+- **Student 3**: Event Signup
+
+## Workflow
+1. Each team member works on their assigned component.
+2. Use separate branches for development.
+3. Submit pull requests for code review before merging into the main branch.
+
+## Code Review Checklist
+- Code follows the style guide.
+- All tests pass before merging.
+- No commented-out or unused code.
